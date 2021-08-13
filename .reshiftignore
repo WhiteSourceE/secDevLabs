@@ -19,3 +19,5 @@ images/
 images
 **.py
 *.py
+owasp-top10-2016-mobile/
+.github
