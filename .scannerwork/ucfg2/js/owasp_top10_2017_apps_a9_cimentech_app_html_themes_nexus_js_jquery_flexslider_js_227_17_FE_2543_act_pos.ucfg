@@ -1,0 +1,650 @@
+
+gowasp_top10_2017_apps_a9_cimentech_app_html_themes_nexus_js_jquery_flexslider_js_227_17_FE_2543_act_posó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.js„ „(&"s23_1*û
+s23_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+global_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_0"__id*#*!
+
+%env"
+%scope-FE_2523_el_optS
+Q
+
+__unknown_file (	
+%expr_0"__id*$*"
+
+%sc-FE_2523_el_opt_0"
+slider”
+–
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.js‰ ‰($
+%fieldAccess_0"__id**
+	
+%expr_0"
+pagingCountŸ
+÷
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.js‰ ‰($
+%binOpRes_0"__js_greater_than*
+
+%fieldAccess_0*2A
+?
+
+__unknown_file (
+
+%leftAnd_0"__id*
+
+%binOpRes_0*
+s23_2
+s23_4*¬
+s23_2
+<synthetic> (Õ
+ 
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.js‰( ‰(8
+%binOpRes_1"
+__js_equal*
+
+
+action*
+addB
+@
+
+__unknown_file (
+%rightAnd_0"__id*
+
+%binOpRes_1*
+s23_3
+s23_4*¥
+s23_3
+<synthetic> (_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_1"__id*#*!
+
+%env"
+%scope-FE_2523_el_optS
+Q
+
+__unknown_file (	
+%expr_1"__id*$*"
+
+%sc-FE_2523_el_opt_1"
+sliderR
+P
+
+__unknown_file (	
+%expr_2"__id*#*!
+	
+%expr_1"
+controlNavScaffoldU
+S
+
+__unknown_file (
+%sc-FE_2522___0"__id**
+
+%env"
+%scope-FE_2522___
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_2"__id*#*!
+
+%env"
+%scope-FE_2523_el_optS
+Q
+
+__unknown_file (	
+%expr_3"__id*$*"
+
+%sc-FE_2523_el_opt_2"
+sliderÕ
+ 
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÂ/ Â(G
+%fieldAccess_1"__id**
+	
+%expr_3"
+count’
+“
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÂ/ Â(G
+	%concat_0"__concat*	
+<li><a>*
+
+%fieldAccess_1“
+œ
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÂ/ Â(U
+	%concat_1"__concat*
+
+	%concat_0*
+	</a></li>U
+S
+
+__unknown_file (
+%sc-FE_2522___1"__id**
+
+%env"
+%scope-FE_2522__Î"Ë
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÂ- Â(.
+
+%funcRes_0*
+
+%sc-FE_2522___1"
+$2
+	
+%global2
+
+%env2
+
+	%concat_1F
+D
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_2"
+appendÈ"Ê
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÂ& Â(,
+
+%methRes_0*
+	
+%expr_2"
+append2
+	
+%expr_22
+
+%env2
+
+
+%funcRes_0*
+s23_8*è
+s23_4
+<synthetic> (_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_3"__id*#*!
+
+%env"
+%scope-FE_2523_el_optS
+Q
+
+__unknown_file (	
+%expr_5"__id*$*"
+
+%sc-FE_2523_el_opt_3"
+slider”
+–
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÊ Ê(-
+%fieldAccess_2"__id**
+	
+%expr_5"
+pagingCount“
+œ
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÊ Ê(-
+%binOpRes_2"
+__js_equal*
+
+%fieldAccess_2*2*
+s23_5
+s23_6*Ü
+s23_5
+<synthetic> (_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_4"__id*#*!
+
+%env"
+%scope-FE_2523_el_optS
+Q
+
+__unknown_file (	
+%expr_6"__id*$*"
+
+%sc-FE_2523_el_opt_4"
+sliderR
+P
+
+__unknown_file (	
+%expr_7"__id*#*!
+	
+%expr_6"
+controlNavScaffoldD
+B
+
+__unknown_file (	
+%expr_8"__id**
+	
+%expr_7"
+findﬂ"‹
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÁ& Á(*
+
+%methRes_1*
+	
+%expr_7"
+find2
+	
+%expr_72
+
+%env2
+liI
+G
+
+__unknown_file (	
+%expr_9"__id**
+
+
+%methRes_1"
+removeﬂ"‹
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÁ1 Á(7
+
+%methRes_2*
+
+
+%methRes_1"
+remove2
+
+
+%methRes_12
+
+%env*
+s23_7*ª	
+s23_6
+<synthetic> (_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_5"__id*#*!
+
+%env"
+%scope-FE_2523_el_optT
+R
+
+__unknown_file (
+
+%expr_10"__id*$*"
+
+%sc-FE_2523_el_opt_5"
+sliderL
+J
+
+__unknown_file (
+
+%expr_11"__id**
+
+
+%expr_10"
+
+controlNavD
+B
+
+__unknown_file (
+
+%expr_12"__id**
+
+
+%expr_11"
+eq‡"›
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÈ È( 
+
+%methRes_3*
+
+
+%expr_11"
+eq2
+
+
+%expr_112
+
+%env2
+
+posK
+I
+
+__unknown_file (
+
+%expr_13"__id**
+
+
+%methRes_3"	
+closestË"Â
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÈ& È(-
+
+%methRes_4*
+
+
+%methRes_3"	
+closest2
+
+
+%methRes_32
+
+%env2
+liJ
+H
+
+__unknown_file (
+
+%expr_14"__id**
+
+
+%methRes_4"
+removeﬂ"‹
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÈ4 È(:
+
+%methRes_5*
+
+
+%methRes_4"
+remove2
+
+
+%methRes_42
+
+%env*
+s23_7*'
+s23_7
+<synthetic> (*
+s23_8*Ñ
+
+s23_8
+<synthetic> (_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_6"__id*#*!
+
+%env"
+%scope-FE_2523_el_optU
+S
+
+__unknown_file (
+
+%expr_15"__id*%*#
+
+%sc-FE_2523_el_opt_6"	
+methodsL
+J
+
+__unknown_file (
+
+%expr_16"__id**
+
+
+%expr_15"
+
+controlNavE
+C
+
+__unknown_file (
+
+%expr_17"__id**
+
+
+%expr_16"
+setÿ"’
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÎ Î( 
+
+%methRes_6*
+
+
+%expr_16"
+set2
+
+
+%expr_162
+
+%env_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_7"__id*#*!
+
+%env"
+%scope-FE_2523_el_optT
+R
+
+__unknown_file (
+
+%expr_18"__id*$*"
+
+%sc-FE_2523_el_opt_7"
+slider‘
+—
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÏ Ï(!
+%fieldAccess_3"__id**
+
+
+%expr_18"
+pagingCountŸ
+÷
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÏ Ï(!
+%binOpRes_3"__js_greater_than*
+
+%fieldAccess_3*2A
+?
+
+__unknown_file (
+
+%leftAnd_1"__id*
+
+%binOpRes_3*
+s23_9
+s23_11*æ	
+s23_9
+<synthetic>	 	(_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_8"__id*#*!
+
+%env"
+%scope-FE_2523_el_optT
+R
+
+__unknown_file (
+
+%expr_19"__id*$*"
+
+%sc-FE_2523_el_opt_8"
+slider_
+]
+
+__unknown_file (
+%sc-FE_2523_el_opt_9"__id*#*!
+
+%env"
+%scope-FE_2523_el_optT
+R
+
+__unknown_file (
+
+%expr_20"__id*$*"
+
+%sc-FE_2523_el_opt_9"
+sliderL
+J
+
+__unknown_file (
+
+%expr_21"__id**
+
+
+%expr_20"
+
+controlNav‘
+—
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÏ% Ï(T
+%fieldAccess_4"__id**
+
+
+%expr_19"
+pagingCountœ
+Ã
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÏ% Ï(T
+%fieldAccess_5"__id**
+
+
+%expr_21"
+length‚
+ﬂ
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÏ% Ï(T
+%binOpRes_4"__js_unequal*
+
+%fieldAccess_4*
+
+%fieldAccess_5B
+@
+
+__unknown_file (
+%rightAnd_1"__id*
+
+%binOpRes_4*
+s23_10
+s23_11*Á
+s23_10
+<synthetic> (`
+^
+
+__unknown_file (
+%sc-FE_2523_el_opt_10"__id*#*!
+
+%env"
+%scope-FE_2523_el_optU
+S
+
+__unknown_file (
+
+%expr_22"__id*%*#
+
+%sc-FE_2523_el_opt_10"
+sliderH
+F
+
+__unknown_file (
+
+%expr_23"__id**
+
+
+%expr_22"
+update"Ì
+ó
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÏ_ Ï(e
+
+%methRes_7*
+
+
+%expr_22"
+update2
+
+
+%expr_222
+
+%env2
+
+pos2
+
+
+actionF
+D
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+
+%methRes_7*
+s23_12*£
+s23_11
+<synthetic>
+ 
+(`
+^
+
+__unknown_file (
+%sc-FE_2523_el_opt_11"__id*#*!
+
+%env"
+%scope-FE_2523_el_optV
+T
+
+__unknown_file (
+
+%expr_24"__id*&*$
+
+%sc-FE_2523_el_opt_11"	
+methodsL
+J
+
+__unknown_file (
+
+%expr_25"__id**
+
+
+%expr_24"
+
+controlNavH
+F
+
+__unknown_file (
+
+%expr_26"__id**
+
+
+%expr_25"
+active›"⁄
+ô
+ä/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a9/cimentech/app/html/themes/nexus/js/jquery.flexslider.jsÏà Ï(é
+
+%methRes_8*
+
+
+%expr_25"
+active2
+
+
+%expr_252
+
+%envF
+D
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+
+%methRes_8*
+s23_12*?
+s23_12
+<synthetic> ("
+
+__unknown_file ( :
+%env:
+action:
+posB 

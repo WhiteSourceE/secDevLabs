@@ -1,0 +1,829 @@
+
+lowasp_top10_2017_apps_a10_games_irados_app_static_js_bootstrap_bundle_js_1834_3_FD_196_getBoundingClientRectè
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js™ ™( "s138_1*«
+s138_1
+<synthetic> (C
+A
+
+__unknown_file (	
+%global"__id**
+
+%env"
+global≤Ø
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js´ ´(
+	%object_0Object"Object∫
+∑
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js´ ´(
+rect"__id*
+
+	%object_0Object]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___0"__id*"* 
+
+%env"
+%scope-FE_1343_exp__*
+s138_2
+s138_6*Ù
+s138_2
+<synthetic> (]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___1"__id*"* 
+
+%env"
+%scope-FE_1343_exp__·"ﬁ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js±
+ ±(
+
+%funcRes_0*
+
+%sc-FE_1343_exp___1"
+isIE2
+	
+%global2
+
+%env22
+*
+s138_3
+s138_4*Ÿ 
+s138_3
+<synthetic> (U
+S
+
+__unknown_file (	
+%expr_0"__id*&*$
+	
+element"
+getBoundingClientRect‡"›
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js≤ ≤(,
+
+%methRes_0*$
+	
+element"
+getBoundingClientRect2
+	
+element2
+
+%env≥
+∞
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js≤ ≤(
+rect"__id*
+
+
+%methRes_0]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___2"__id*"* 
+
+%env"
+%scope-FE_1343_exp__]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___3"__id*"* 
+
+%env"
+%scope-FE_1343_exp__ˆ"Û
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js≥ ≥(!
+
+%funcRes_1*$
+
+%sc-FE_1343_exp___3"
+	getScroll2
+	
+%global2
+
+%env2
+	
+element2
+top∏
+µ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js≥ ≥(
+	scrollTop"__id*
+
+
+%funcRes_1]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___4"__id*"* 
+
+%env"
+%scope-FE_1343_exp__]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___5"__id*"* 
+
+%env"
+%scope-FE_1343_exp__˜"Ù
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¥ ¥("
+
+%funcRes_2*$
+
+%sc-FE_1343_exp___5"
+	getScroll2
+	
+%global2
+
+%env2
+	
+element2
+leftπ
+∂
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¥ ¥(
+
+scrollLeft"__id*
+
+
+%funcRes_2¿
+Ω
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsµ µ(
+%fieldAccess_0"__id**
+
+rect"
+topœ
+Ã
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsµ µ(
+	%concat_0"__concat*
+
+%fieldAccess_0*
+
+	scrollTopª
+∏
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsµ µ(
+
+rect"
+top"__id*
+
+	%concat_0¡
+æ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∂ ∂(
+%fieldAccess_1"__id**
+
+rect"
+left–
+Õ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∂ ∂(
+	%concat_1"__concat*
+
+%fieldAccess_1*
+
+
+scrollLeftº
+π
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∂ ∂(
+
+rect"
+left"__id*
+
+	%concat_1√
+¿
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∑ ∑( 
+%fieldAccess_2"__id**
+
+rect"
+bottomœ
+Ã
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∑ ∑( 
+	%concat_2"__concat*
+
+%fieldAccess_2*
+
+	scrollTopæ
+ª
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∑ ∑(
+
+rect"
+bottom"__id*
+
+	%concat_2¬
+ø
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∏ ∏( 
+%fieldAccess_3"__id**
+
+rect"
+right–
+Õ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∏ ∏( 
+	%concat_3"__concat*
+
+%fieldAccess_3*
+
+
+scrollLeftΩ
+∫
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∏ ∏(
+
+rect"
+right"__id*
+
+	%concat_3*
+s138_5*ô
+s138_4
+<synthetic> (U
+S
+
+__unknown_file (	
+%expr_1"__id*&*$
+	
+element"
+getBoundingClientRect‡"›
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∫ ∫(,
+
+%methRes_1*$
+	
+element"
+getBoundingClientRect2
+	
+element2
+
+%env≥
+∞
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∫ ∫(
+rect"__id*
+
+
+%methRes_1*
+s138_5*1
+s138_5
+<synthetic> (*
+s138_6
+s138_7*)
+s138_6
+<synthetic> (*
+s138_7*ƒ
+s138_7
+<synthetic> (¬
+ø
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¡ ¡(#
+%fieldAccess_4"__id**
+
+rect"
+right¡
+æ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¡ ¡(#
+%fieldAccess_5"__id**
+
+rect"
+left÷
+”
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¡ ¡(#
+%binOpRes_0"__js_sub*
+
+%fieldAccess_4*
+
+%fieldAccess_5√
+¿
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¬ ¬($
+%fieldAccess_6"__id**
+
+rect"
+bottom¿
+Ω
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¬ ¬($
+%fieldAccess_7"__id**
+
+rect"
+top÷
+”
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¬ ¬($
+%binOpRes_1"__js_sub*
+
+%fieldAccess_6*
+
+%fieldAccess_7≤Ø
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsæ √(
+	%object_1Object"ObjectŒ
+À
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsø ø(
+
+	%object_1Object"
+left"__id**
+
+rect"
+leftÃ
+…
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¿ ¿(
+
+	%object_1Object"
+top"__id**
+
+rect"
+topÃ
+…
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¡ ¡(#
+
+	%object_1Object"
+width"__id*
+
+%binOpRes_0Õ
+ 
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js¬ ¬($
+
+	%object_1Object"
+height"__id*
+
+%binOpRes_1º
+π
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsæ æ(
+result"__id*
+
+	%object_1Object»
+≈
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∆ ∆(+
+%fieldAccess_8"__id**
+	
+element"
+
+nodeNameŒ
+À
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∆ ∆(+
+%binOpRes_2"
+__js_equal*
+
+%fieldAccess_8*
+HTML*
+s138_8
+s138_9*ò
+s138_8
+<synthetic>	 	(]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___6"__id*"* 
+
+%env"
+%scope-FE_1343_exp__]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___7"__id*"* 
+
+%env"
+%scope-FE_1343_exp__Â"‚
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∆. ∆(<
+
+%funcRes_3*)
+
+%sc-FE_1343_exp___7"
+getWindowSizes2
+	
+%global2
+
+%envF
+D
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+
+%funcRes_3*	
+s138_10*Æ
+s138_9
+<synthetic> (≤Ø
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∆A ∆(C
+	%object_2Object"ObjectM
+K
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+	%object_2Object*	
+s138_10*∏
+s138_10
+<synthetic>
+ 
+(∫
+∑
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js∆ ∆(
+sizes"__id*
+
+%unionThenElse_0E
+C
+
+__unknown_file (
+	%leftOr_0"__id**
+
+sizes"
+width*
+s138_11
+s138_13*ù
+s138_11
+<synthetic> (N
+L
+
+__unknown_file (
+
+%rightOr_0"__id**
+	
+element"
+clientWidthV
+T
+
+__unknown_file (
+
+%unionOr_0"__union* *
+
+	%leftOr_0*
+
+
+%rightOr_0?
+=
+
+__unknown_file (
+	%leftOr_1"__id*
+
+
+%unionOr_0*
+s138_12
+s138_13*÷
+s138_12
+<synthetic> (ƒ
+¡
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js«6 «(P
+%fieldAccess_9"__id**
+
+result"
+rightƒ
+¡
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js«6 «(P
+%fieldAccess_10"__id**
+
+result"
+left◊
+‘
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js«6 «(P
+%binOpRes_3"__js_sub*
+
+%fieldAccess_9*
+
+%fieldAccess_10A
+?
+
+__unknown_file (
+
+%rightOr_1"__id*
+
+%binOpRes_3*	
+s138_13*ã
+s138_13
+<synthetic> (V
+T
+
+__unknown_file (
+
+%unionOr_1"__union* *
+
+	%leftOr_1*
+
+
+%rightOr_1¥
+±
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js« «(
+width"__id*
+
+
+%unionOr_1F
+D
+
+__unknown_file (
+	%leftOr_2"__id**
+
+sizes"
+height*
+s138_14
+s138_16*û
+s138_14
+<synthetic> (O
+M
+
+__unknown_file (
+
+%rightOr_2"__id**
+	
+element"
+clientHeightV
+T
+
+__unknown_file (
+
+%unionOr_2"__union* *
+
+	%leftOr_2*
+
+
+%rightOr_2?
+=
+
+__unknown_file (
+	%leftOr_3"__id*
+
+
+%unionOr_2*
+s138_15
+s138_16*ÿ
+s138_15
+<synthetic> (∆
+√
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js»9 »(S
+%fieldAccess_11"__id**
+
+result"
+bottom√
+¿
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js»9 »(S
+%fieldAccess_12"__id**
+
+result"
+topÿ
+’
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js»9 »(S
+%binOpRes_4"__js_sub*
+
+%fieldAccess_11*
+
+%fieldAccess_12A
+?
+
+__unknown_file (
+
+%rightOr_3"__id*
+
+%binOpRes_4*	
+s138_16*Ã
+s138_16
+<synthetic> (V
+T
+
+__unknown_file (
+
+%unionOr_3"__union* *
+
+	%leftOr_3*
+
+
+%rightOr_3µ
+≤
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js» »(
+height"__id*
+
+
+%unionOr_3Ã
+…
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js   (4
+%fieldAccess_13"__id**
+	
+element"
+offsetWidthŒ
+À
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js   (4
+%binOpRes_5"__js_sub*
+
+%fieldAccess_13*	
+
+widthæ
+ª
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js   (
+horizScrollbar"__id*
+
+%binOpRes_5Õ
+ 
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsÀ À(5
+%fieldAccess_14"__id**
+	
+element"
+offsetHeightœ
+Ã
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsÀ À(5
+%binOpRes_6"__js_sub*
+
+%fieldAccess_14*
+
+
+heightΩ
+∫
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsÀ À(
+vertScrollbar"__id*
+
+%binOpRes_6C
+A
+
+__unknown_file (
+	%leftOr_4"__id*
+
+horizScrollbar*
+s138_17
+s138_18*—
+s138_17
+<synthetic> (C
+A
+
+__unknown_file (
+
+%rightOr_4"__id*
+
+vertScrollbarV
+T
+
+__unknown_file (
+
+%unionOr_4"__union* *
+
+	%leftOr_4*
+
+
+%rightOr_4*
+s138_18
+s138_19*ò
+s138_18
+<synthetic> (]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___8"__id*"* 
+
+%env"
+%scope-FE_1343_exp__]
+[
+
+__unknown_file (
+%sc-FE_1343_exp___9"__id*"* 
+
+%env"
+%scope-FE_1343_exp__¸"˘
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js– –(+
+
+%funcRes_4*3
+
+%sc-FE_1343_exp___9"
+getStyleComputedProperty2
+	
+%global2
+
+%env2
+	
+elementµ
+≤
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js–
+ –(
+styles"__id*
+
+
+%funcRes_4^
+\
+
+__unknown_file (
+%sc-FE_1343_exp___10"__id*"* 
+
+%env"
+%scope-FE_1343_exp__^
+\
+
+__unknown_file (
+%sc-FE_1343_exp___11"__id*"* 
+
+%env"
+%scope-FE_1343_exp__˘"ˆ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js— —(&
+
+%funcRes_5**
+
+%sc-FE_1343_exp___11"
+getBordersSize2
+	
+%global2
+
+%env2
+
+
+styles2
+x^
+\
+
+__unknown_file (
+%sc-FE_1343_exp___12"__id*"* 
+
+%env"
+%scope-FE_1343_exp__^
+\
+
+__unknown_file (
+%sc-FE_1343_exp___13"__id*"* 
+
+%env"
+%scope-FE_1343_exp__˘"ˆ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.js“ “(%
+
+%funcRes_6**
+
+%sc-FE_1343_exp___13"
+getBordersSize2
+	
+%global2
+
+%env2
+
+
+styles2
+y*	
+s138_19*˘
+s138_19
+<synthetic> (^
+\
+
+__unknown_file (
+%sc-FE_1343_exp___14"__id*"* 
+
+%env"
+%scope-FE_1343_exp__^
+\
+
+__unknown_file (
+%sc-FE_1343_exp___15"__id*"* 
+
+%env"
+%scope-FE_1343_exp__Ò"Ó
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsÿ ÿ(
+
+%funcRes_7*)
+
+%sc-FE_1343_exp___15"
+getClientRect2
+	
+%global2
+
+%env2
+
+
+result"¢
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/js/bootstrap.bundle.jsÿ ÿ(!
+
+
+%funcRes_7:
+%env:	
+elementB 

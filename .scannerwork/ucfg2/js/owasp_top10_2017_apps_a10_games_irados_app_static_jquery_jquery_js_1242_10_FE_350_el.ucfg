@@ -1,0 +1,625 @@
+
+Towasp_top10_2017_apps_a10_games_irados_app_static_jquery_jquery_js_1242_10_FE_350_elà
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js⁄		 ⁄	("s76_1*§
+s76_1
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-FE_322_win_0"__id**
+
+%env"
+%scope-FE_322_winP
+N
+
+__unknown_file (	
+%expr_0"__id*!*
+
+%sc-FE_322_win_0"	
+docElemK
+I
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+appendChild◊"‘
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	 ‡	(
+
+%methRes_0*
+	
+%expr_0"
+appendChild2
+	
+%expr_02
+
+%env2
+
+elW
+U
+
+__unknown_file (
+%sc-FE_322_win_1"__id**
+
+%env"
+%scope-FE_322_win…
+∆
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	) ‡	(<
+%fieldAccess_0"__id*!*
+
+%sc-FE_322_win_1"	
+expando∆
+√
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	) ‡	(<
+	%concat_0"__concat*	
+<a id='*
+
+%fieldAccess_0¿
+Ω
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	) ‡	(G
+	%concat_1"__concat*
+
+	%concat_0*
+
+'></a>∆
+√
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	) ·	(
+	%concat_2"__concat*
+
+	%concat_1*
+<select id='W
+U
+
+__unknown_file (
+%sc-FE_322_win_2"__id**
+
+%env"
+%scope-FE_322_win…
+∆
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	) ·	(
+%fieldAccess_1"__id*!*
+
+%sc-FE_322_win_2"	
+expando»
+≈
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	) ·	(
+	%concat_3"__concat*
+
+	%concat_2*
+
+%fieldAccess_1—
+Œ
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	) ·	(:
+	%concat_4"__concat*
+
+	%concat_3*
+-\' msallowcapture=''>‡
+›
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	) ‚	(,
+	%concat_5"__concat*
+
+	%concat_4**(
+&<option selected=''></option></select>â"Ü
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	 ‡	(&	
+%void_0*6
+
+
+%methRes_0"&
+$__setWatchedMemberDescendantProperty2
+
+
+%methRes_02
+
+%env2
+	innerHTML2
+
+	%concat_5¿
+Ω
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js‡	 ‡	(&
+
+
+%methRes_0"
+	innerHTML"__id*
+
+	%concat_5K
+I
+
+__unknown_file (	
+%expr_2"__id**
+
+el"
+querySelectorAll‰"·
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsË	 Ë	(
+
+%methRes_1*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+[msallowcapture^='']*
+s76_2
+s76_3*´	
+s76_2
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-FE_322_win_3"__id**
+
+%env"
+%scope-FE_322_winR
+P
+
+__unknown_file (	
+%expr_3"__id*#*!
+
+%sc-FE_322_win_3"
+	rbuggyQSAW
+U
+
+__unknown_file (
+%sc-FE_322_win_4"__id**
+
+%env"
+%scope-FE_322_winÃ
+…
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÈ	 È	()
+%fieldAccess_2"__id*$*"
+
+%sc-FE_322_win_4"
+
+whitespace≈
+¬
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÈ	 È	()
+	%concat_6"__concat*
+
+[*^$]=*
+
+%fieldAccess_2ƒ
+¡
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÈ	 È	(:
+	%concat_7"__concat*
+
+	%concat_6*
+
+*(?:''|"")D
+B
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+push◊"‘
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÈ	 È	(
+
+%methRes_2*
+	
+%expr_3"
+push2
+	
+%expr_32
+
+%env2
+
+	%concat_7*
+s76_3*ÿ
+s76_3
+<synthetic> (K
+I
+
+__unknown_file (	
+%expr_5"__id**
+
+el"
+querySelectorAll⁄"◊
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÓ	 Ó	(
+
+%methRes_3*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+
+[selected]*
+s76_4
+s76_5*⁄
+s76_4
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-FE_322_win_5"__id**
+
+%env"
+%scope-FE_322_winR
+P
+
+__unknown_file (	
+%expr_6"__id*#*!
+
+%sc-FE_322_win_5"
+	rbuggyQSAW
+U
+
+__unknown_file (
+%sc-FE_322_win_6"__id**
+
+%env"
+%scope-FE_322_winÃ
+…
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÔ	 Ô	(&
+%fieldAccess_3"__id*$*"
+
+%sc-FE_322_win_6"
+
+whitespace¡
+æ
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÔ	 Ô	(&
+	%concat_8"__concat*
+\[*
+
+%fieldAccess_3ƒ
+¡
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÔ	 Ô	(5
+	%concat_9"__concat*
+
+	%concat_8*
+
+*(?:value|W
+U
+
+__unknown_file (
+%sc-FE_322_win_7"__id**
+
+%env"
+%scope-FE_322_win 
+«
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÔ	 Ô	(@
+%fieldAccess_4"__id*"* 
+
+%sc-FE_322_win_7"
+
+booleans…
+∆
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÔ	 Ô	(@
+
+%concat_10"__concat*
+
+	%concat_9*
+
+%fieldAccess_4Ω
+∫
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÔ	 Ô	(F
+
+%concat_11"__concat*
+
+
+%concat_10*
+)D
+B
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+pushÿ"’
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÔ	 Ô	(
+
+%methRes_4*
+	
+%expr_6"
+push2
+	
+%expr_62
+
+%env2
+
+
+%concat_11*
+s76_5*Ü
+s76_5
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-FE_322_win_8"__id**
+
+%env"
+%scope-FE_322_win…
+∆
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÛ	 Û	(/
+%fieldAccess_5"__id*!*
+
+%sc-FE_322_win_8"	
+expando≈
+¬
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÛ	 Û	(/
+
+%concat_12"__concat*	
+[id~=*
+
+%fieldAccess_5æ
+ª
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÛ	 Û	(6
+
+%concat_13"__concat*
+
+
+%concat_12*
+-]K
+I
+
+__unknown_file (	
+%expr_8"__id**
+
+el"
+querySelectorAll⁄"◊
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÛ	 Û	(
+
+%methRes_5*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+
+
+%concat_13*
+s76_6
+s76_7*Ó
+s76_6
+<synthetic> (W
+U
+
+__unknown_file (
+%sc-FE_322_win_9"__id**
+
+%env"
+%scope-FE_322_winR
+P
+
+__unknown_file (	
+%expr_9"__id*#*!
+
+%sc-FE_322_win_9"
+	rbuggyQSAE
+C
+
+__unknown_file (
+
+%expr_10"__id**
+	
+%expr_9"
+push–"Õ
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÙ	 Ù	(
+
+%methRes_6*
+	
+%expr_9"
+push2
+	
+%expr_92
+
+%env2
+~=*
+s76_7*◊
+s76_7
+<synthetic> (L
+J
+
+__unknown_file (
+
+%expr_11"__id**
+
+el"
+querySelectorAllÿ"’
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js˙	 ˙	(
+
+%methRes_7*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+
+:checked*
+s76_8
+s76_9*˙
+s76_8
+<synthetic> (X
+V
+
+__unknown_file (
+%sc-FE_322_win_10"__id**
+
+%env"
+%scope-FE_322_winT
+R
+
+__unknown_file (
+
+%expr_12"__id*$*"
+
+%sc-FE_322_win_10"
+	rbuggyQSAF
+D
+
+__unknown_file (
+
+%expr_13"__id**
+
+
+%expr_12"
+pushÿ"’
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.js˚	 ˚	(
+
+%methRes_8*
+
+
+%expr_12"
+push2
+
+
+%expr_122
+
+%env2
+
+:checked*
+s76_9*à
+s76_9
+<synthetic>	 	(X
+V
+
+__unknown_file (
+%sc-FE_322_win_11"__id**
+
+%env"
+%scope-FE_322_win 
+«
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÅ
+ Å
+(,
+%fieldAccess_6"__id*"* 
+
+%sc-FE_322_win_11"	
+expando¬
+ø
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÅ
+ Å
+(,
+
+%concat_14"__concat*
+a#*
+
+%fieldAccess_6æ
+ª
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÅ
+ Å
+(3
+
+%concat_15"__concat*
+
+
+%concat_14*
++*L
+J
+
+__unknown_file (
+
+%expr_14"__id**
+
+el"
+querySelectorAll⁄"◊
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÅ
+ Å
+(
+
+%methRes_9*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+
+
+%concat_15*
+s76_10
+s76_11*˝
+s76_10
+<synthetic>
+ 
+(X
+V
+
+__unknown_file (
+%sc-FE_322_win_12"__id**
+
+%env"
+%scope-FE_322_winT
+R
+
+__unknown_file (
+
+%expr_15"__id*$*"
+
+%sc-FE_322_win_12"
+	rbuggyQSAF
+D
+
+__unknown_file (
+
+%expr_16"__id**
+
+
+%expr_15"
+pushŸ"÷
+à
+|/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a10/games-irados/app/static/jquery/jquery.jsÇ
+ Ç
+(
+%methRes_10*
+
+
+%expr_15"
+push2
+
+
+%expr_152
+
+%env2
+
+.#.+[+~]*
+s76_11*?
+s76_11
+<synthetic> ("
+
+__unknown_file ( :
+%env:
+elB 

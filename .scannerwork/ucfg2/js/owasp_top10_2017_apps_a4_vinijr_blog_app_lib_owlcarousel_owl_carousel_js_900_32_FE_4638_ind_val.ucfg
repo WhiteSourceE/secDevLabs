@@ -1,0 +1,719 @@
+
+_owasp_top10_2017_apps_a4_vinijr_blog_app_lib_owlcarousel_owl_carousel_js_900_32_FE_4638_ind_valè
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÑ Ñ(6"s44_1*ˇ
+s44_1
+<synthetic> (a
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_0"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir◊
+‘
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜ Ü(
+%fieldAccess_0"__id*(*&
+
+%sc-FE_4637_coo_dir_0"
+	directionŒ
+À
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜ Ü(
+%binOpRes_0"
+__js_equal*
+
+%fieldAccess_0*
+leftA
+?
+
+__unknown_file (
+
+%leftAnd_0"__id*
+
+%binOpRes_0*
+s44_2
+s44_5*⁄	
+s44_2
+<synthetic> (a
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_1"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dira
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_2"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir“
+œ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜ- Ü(9
+%fieldAccess_1"__id*#*!
+
+%sc-FE_4637_coo_dir_2"
+pullÕ
+ 
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜ- Ü(9
+%binOpRes_1"__js_sub*	
+
+value*
+
+%fieldAccess_1ÿ
+’
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜ  Ü(9
+%fieldAccess_2"__id*)*'
+
+%sc-FE_4637_coo_dir_1"
+
+coordinate‹
+Ÿ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜ  Ü(9
+%binOpRes_2"__js_greater_than*
+
+%fieldAccess_2*
+
+%binOpRes_1B
+@
+
+__unknown_file (
+%rightAnd_0"__id*
+
+%binOpRes_2A
+?
+
+__unknown_file (
+
+%leftAnd_1"__id*
+
+%rightAnd_0*
+s44_3
+s44_5*ê	
+s44_3
+<synthetic> (a
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_3"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dira
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_4"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir“
+œ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜJ Ü(V
+%fieldAccess_3"__id*#*!
+
+%sc-FE_4637_coo_dir_4"
+pullÀ
+»
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜJ Ü(V
+	%concat_0"__concat*	
+
+value*
+
+%fieldAccess_3ÿ
+’
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜ= Ü(V
+%fieldAccess_4"__id*)*'
+
+%sc-FE_4637_coo_dir_3"
+
+coordinate◊
+‘
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsÜ= Ü(V
+%binOpRes_3"__js_less_than*
+
+%fieldAccess_4*
+
+	%concat_0B
+@
+
+__unknown_file (
+%rightAnd_1"__id*
+
+%binOpRes_3*
+s44_4
+s44_5*€
+s44_4
+<synthetic> (a
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_5"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirÕ
+ 
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsá á(%
+
+%sc-FE_4637_coo_dir_5"
+
+position"__id*	
+
+index*
+s44_20*Ä
+s44_5
+<synthetic> (a
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_6"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir◊
+‘
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsä ä($
+%fieldAccess_5"__id*(*&
+
+%sc-FE_4637_coo_dir_6"
+	directionœ
+Ã
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsä ä($
+%binOpRes_4"
+__js_equal*
+
+%fieldAccess_5*	
+rightA
+?
+
+__unknown_file (
+
+%leftAnd_2"__id*
+
+%binOpRes_4*
+s44_6
+s44_9*È
+s44_6
+<synthetic> (a
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_7"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dira
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_8"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir”
+–
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsä5 ä(B
+%fieldAccess_6"__id*$*"
+
+%sc-FE_4637_coo_dir_8"
+widthÕ
+ 
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsä5 ä(B
+%binOpRes_5"__js_sub*	
+
+value*
+
+%fieldAccess_6a
+_
+
+__unknown_file (
+%sc-FE_4637_coo_dir_9"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir“
+œ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsä5 ä(I
+%fieldAccess_7"__id*#*!
+
+%sc-FE_4637_coo_dir_9"
+pull”
+–
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsä5 ä(I
+%binOpRes_6"__js_sub*
+
+%binOpRes_5*
+
+%fieldAccess_7ÿ
+’
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsä( ä(I
+%fieldAccess_8"__id*)*'
+
+%sc-FE_4637_coo_dir_7"
+
+coordinate‹
+Ÿ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsä( ä(I
+%binOpRes_7"__js_greater_than*
+
+%fieldAccess_8*
+
+%binOpRes_6B
+@
+
+__unknown_file (
+%rightAnd_2"__id*
+
+%binOpRes_7A
+?
+
+__unknown_file (
+
+%leftAnd_3"__id*
+
+%rightAnd_2*
+s44_7
+s44_9*©
+s44_7
+<synthetic> (b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_10"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirb
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_11"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir‘
+—
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsäZ ä(g
+%fieldAccess_9"__id*%*#
+
+%sc-FE_4637_coo_dir_11"
+widthÕ
+ 
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsäZ ä(g
+%binOpRes_8"__js_sub*	
+
+value*
+
+%fieldAccess_9b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_12"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir‘
+—
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsäZ ä(n
+%fieldAccess_10"__id*$*"
+
+%sc-FE_4637_coo_dir_12"
+pull“
+œ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsäZ ä(n
+	%concat_1"__concat*
+
+%binOpRes_8*
+
+%fieldAccess_10⁄
+◊
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsäM ä(n
+%fieldAccess_11"__id***(
+
+%sc-FE_4637_coo_dir_10"
+
+coordinateÿ
+’
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsäM ä(n
+%binOpRes_9"__js_less_than*
+
+%fieldAccess_11*
+
+	%concat_1B
+@
+
+__unknown_file (
+%rightAnd_3"__id*
+
+%binOpRes_9*
+s44_8
+s44_9*°
+s44_8
+<synthetic> (b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_13"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirΩ
+∫
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsã ã(
+	%concat_2"__concat*	
+
+index*2“
+œ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsã ã(&
+
+%sc-FE_4637_coo_dir_13"
+
+position"__id*
+
+	%concat_2*
+s44_19*€
+s44_9
+<synthetic> (1
+/
+
+__unknown_file (	
+%expr_0"__id* b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_14"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirB
+@
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+opã"à
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jså å(
+
+%methRes_0*
+	
+%expr_0"
+op2
+	
+%expr_02
+
+%env2**(
+
+%sc-FE_4637_coo_dir_14"
+
+coordinate2
+<2	
+
+value@
+>
+
+__unknown_file (
+
+%leftAnd_4"__id*
+
+
+%methRes_0*
+s44_10
+s44_18*∑
+
+s44_10
+<synthetic> (1
+/
+
+__unknown_file (	
+%expr_2"__id* b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_15"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirb
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_16"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirΩ
+∫
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsç- ç(6
+	%concat_3"__concat*	
+
+index*2Z
+X
+
+__unknown_file (	
+%expr_3"__id*+*)
+
+%sc-FE_4637_coo_dir_16"
+coordinates≈
+¬
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsç! ç(7
+%var_0"__mapGet*
+	
+%expr_3*
+
+	%concat_3m
+k
+
+__unknown_file (
+%sc-FE_4597___win_doc_und_0"__id***(
+
+%env"
+%scope-FE_4597___win_doc_undﬁ
+€
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsç! ç(E
+%fieldAccess_12"__id*.*,
+
+%sc-FE_4597___win_doc_und_0"
+	undefined‘
+—
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsç! ç(E
+%binOpRes_10"__js_unequal*
+
+
+%var_0*
+
+%fieldAccess_12*
+s44_11
+s44_12*µ
+s44_11
+<synthetic>
+ 
+(b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_17"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirΩ
+∫
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsçT ç(]
+	%concat_4"__concat*	
+
+index*2Z
+X
+
+__unknown_file (	
+%expr_4"__id*+*)
+
+%sc-FE_4637_coo_dir_17"
+coordinates≈
+¬
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsçH ç(^
+%var_1"__mapGet*
+	
+%expr_4*
+
+	%concat_4B
+@
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+
+%var_1*
+s44_13*Å
+s44_12
+<synthetic>	 	(b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_18"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dir’
+“
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsça ç(n
+%fieldAccess_13"__id*%*#
+
+%sc-FE_4637_coo_dir_18"
+widthœ
+Ã
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsça ç(n
+%binOpRes_11"__js_sub*	
+
+value*
+
+%fieldAccess_13H
+F
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+%binOpRes_11*
+s44_13*—
+s44_13
+<synthetic> (B
+@
+
+__unknown_file (	
+%expr_5"__id**
+	
+%expr_2"
+opñ"ì
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsç ç(
+
+%methRes_1*
+	
+%expr_2"
+op2
+	
+%expr_22
+
+%env2**(
+
+%sc-FE_4637_coo_dir_15"
+
+coordinate2
+>2
+
+%unionThenElse_0A
+?
+
+__unknown_file (
+%rightAnd_4"__id*
+
+
+%methRes_1*
+s44_14
+s44_18*®
+s44_14
+<synthetic> (b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_19"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirb
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_20"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirŸ
+÷
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsé é($
+%fieldAccess_14"__id*)*'
+
+%sc-FE_4637_coo_dir_20"
+	direction–
+Õ
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsé é($
+%binOpRes_12"
+__js_equal*
+
+%fieldAccess_14*
+left*
+s44_15
+s44_16*∞
+s44_15
+<synthetic> (Ω
+∫
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsé' é(0
+	%concat_5"__concat*	
+
+index*2E
+C
+
+__unknown_file (
+%unionThenElse_1"__id*
+
+	%concat_5*
+s44_17*l
+s44_16
+<synthetic> (A
+?
+
+__unknown_file (
+%unionThenElse_1"__id*	
+
+index*
+s44_17*Ö
+s44_17
+<synthetic> (Ÿ
+÷
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsé é(&
+
+%sc-FE_4637_coo_dir_19"
+
+position"__id*
+
+%unionThenElse_1*
+s44_18*)
+s44_18
+<synthetic> (*
+s44_19*)
+s44_19
+<synthetic> (*
+s44_20*›
+s44_20
+<synthetic> (b
+`
+
+__unknown_file (
+%sc-FE_4637_coo_dir_21"__id*$*"
+
+%env"
+%scope-FE_4637_coo_dirÿ
+’
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsê ê(
+%fieldAccess_15"__id*(*&
+
+%sc-FE_4637_coo_dir_21"
+
+position’
+“
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsê ê(
+%binOpRes_13"
+__js_equal*
+
+%fieldAccess_15*2ˇˇˇˇˇˇˇˇˇ"§
+è
+Ç/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a4/vinijr-blog/app/lib/owlcarousel/owl.carousel.jsê ê(
+
+%binOpRes_13:
+%env:
+index:
+valueB 

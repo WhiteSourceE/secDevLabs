@@ -1,0 +1,625 @@
+
+_owasp_top10_2017_apps_a2_saidajaula_monster_app_static_jquery_jquery_slim_js_1242_10_FE_3716_elì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js⁄		 ⁄	("s76_1*±
+s76_1
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-FE_3688_win_0"__id* *
+
+%env"
+%scope-FE_3688_winQ
+O
+
+__unknown_file (	
+%expr_0"__id*"* 
+
+%sc-FE_3688_win_0"	
+docElemK
+I
+
+__unknown_file (	
+%expr_1"__id**
+	
+%expr_0"
+appendChild‚"ﬂ
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	 ‡	(
+
+%methRes_0*
+	
+%expr_0"
+appendChild2
+	
+%expr_02
+
+%env2
+
+elY
+W
+
+__unknown_file (
+%sc-FE_3688_win_1"__id* *
+
+%env"
+%scope-FE_3688_win’
+“
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	) ‡	(<
+%fieldAccess_0"__id*"* 
+
+%sc-FE_3688_win_1"	
+expando—
+Œ
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	) ‡	(<
+	%concat_0"__concat*	
+<a id='*
+
+%fieldAccess_0À
+»
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	) ‡	(G
+	%concat_1"__concat*
+
+	%concat_0*
+
+'></a>—
+Œ
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	) ·	(
+	%concat_2"__concat*
+
+	%concat_1*
+<select id='Y
+W
+
+__unknown_file (
+%sc-FE_3688_win_2"__id* *
+
+%env"
+%scope-FE_3688_win’
+“
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	) ·	(
+%fieldAccess_1"__id*"* 
+
+%sc-FE_3688_win_2"	
+expando”
+–
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	) ·	(
+	%concat_3"__concat*
+
+	%concat_2*
+
+%fieldAccess_1‹
+Ÿ
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	) ·	(:
+	%concat_4"__concat*
+
+	%concat_3*
+-\' msallowcapture=''>Î
+Ë
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	) ‚	(,
+	%concat_5"__concat*
+
+	%concat_4**(
+&<option selected=''></option></select>î"ë
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	 ‡	(&	
+%void_0*6
+
+
+%methRes_0"&
+$__setWatchedMemberDescendantProperty2
+
+
+%methRes_02
+
+%env2
+	innerHTML2
+
+	%concat_5À
+»
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js‡	 ‡	(&
+
+
+%methRes_0"
+	innerHTML"__id*
+
+	%concat_5K
+I
+
+__unknown_file (	
+%expr_2"__id**
+
+el"
+querySelectorAllÔ"Ï
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsË	 Ë	(
+
+%methRes_1*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+[msallowcapture^='']*
+s76_2
+s76_3*›	
+s76_2
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-FE_3688_win_3"__id* *
+
+%env"
+%scope-FE_3688_winS
+Q
+
+__unknown_file (	
+%expr_3"__id*$*"
+
+%sc-FE_3688_win_3"
+	rbuggyQSAY
+W
+
+__unknown_file (
+%sc-FE_3688_win_4"__id* *
+
+%env"
+%scope-FE_3688_winÿ
+’
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÈ	 È	()
+%fieldAccess_2"__id*%*#
+
+%sc-FE_3688_win_4"
+
+whitespace–
+Õ
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÈ	 È	()
+	%concat_6"__concat*
+
+[*^$]=*
+
+%fieldAccess_2œ
+Ã
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÈ	 È	(:
+	%concat_7"__concat*
+
+	%concat_6*
+
+*(?:''|"")D
+B
+
+__unknown_file (	
+%expr_4"__id**
+	
+%expr_3"
+push‚"ﬂ
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÈ	 È	(
+
+%methRes_2*
+	
+%expr_3"
+push2
+	
+%expr_32
+
+%env2
+
+	%concat_7*
+s76_3*„
+s76_3
+<synthetic> (K
+I
+
+__unknown_file (	
+%expr_5"__id**
+
+el"
+querySelectorAllÂ"‚
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÓ	 Ó	(
+
+%methRes_3*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+
+[selected]*
+s76_4
+s76_5*∞
+s76_4
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-FE_3688_win_5"__id* *
+
+%env"
+%scope-FE_3688_winS
+Q
+
+__unknown_file (	
+%expr_6"__id*$*"
+
+%sc-FE_3688_win_5"
+	rbuggyQSAY
+W
+
+__unknown_file (
+%sc-FE_3688_win_6"__id* *
+
+%env"
+%scope-FE_3688_winÿ
+’
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÔ	 Ô	(&
+%fieldAccess_3"__id*%*#
+
+%sc-FE_3688_win_6"
+
+whitespaceÃ
+…
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÔ	 Ô	(&
+	%concat_8"__concat*
+\[*
+
+%fieldAccess_3œ
+Ã
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÔ	 Ô	(5
+	%concat_9"__concat*
+
+	%concat_8*
+
+*(?:value|Y
+W
+
+__unknown_file (
+%sc-FE_3688_win_7"__id* *
+
+%env"
+%scope-FE_3688_win÷
+”
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÔ	 Ô	(@
+%fieldAccess_4"__id*#*!
+
+%sc-FE_3688_win_7"
+
+booleans‘
+—
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÔ	 Ô	(@
+
+%concat_10"__concat*
+
+	%concat_9*
+
+%fieldAccess_4»
+≈
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÔ	 Ô	(F
+
+%concat_11"__concat*
+
+
+%concat_10*
+)D
+B
+
+__unknown_file (	
+%expr_7"__id**
+	
+%expr_6"
+push„"‡
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÔ	 Ô	(
+
+%methRes_4*
+	
+%expr_6"
+push2
+	
+%expr_62
+
+%env2
+
+
+%concat_11*
+s76_5*µ
+s76_5
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-FE_3688_win_8"__id* *
+
+%env"
+%scope-FE_3688_win’
+“
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÛ	 Û	(/
+%fieldAccess_5"__id*"* 
+
+%sc-FE_3688_win_8"	
+expando–
+Õ
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÛ	 Û	(/
+
+%concat_12"__concat*	
+[id~=*
+
+%fieldAccess_5…
+∆
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÛ	 Û	(6
+
+%concat_13"__concat*
+
+
+%concat_12*
+-]K
+I
+
+__unknown_file (	
+%expr_8"__id**
+
+el"
+querySelectorAllÂ"‚
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÛ	 Û	(
+
+%methRes_5*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+
+
+%concat_13*
+s76_6
+s76_7*¸
+s76_6
+<synthetic> (Y
+W
+
+__unknown_file (
+%sc-FE_3688_win_9"__id* *
+
+%env"
+%scope-FE_3688_winS
+Q
+
+__unknown_file (	
+%expr_9"__id*$*"
+
+%sc-FE_3688_win_9"
+	rbuggyQSAE
+C
+
+__unknown_file (
+
+%expr_10"__id**
+	
+%expr_9"
+push€"ÿ
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÙ	 Ù	(
+
+%methRes_6*
+	
+%expr_9"
+push2
+	
+%expr_92
+
+%env2
+~=*
+s76_7*‚
+s76_7
+<synthetic> (L
+J
+
+__unknown_file (
+
+%expr_11"__id**
+
+el"
+querySelectorAll„"‡
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js˙	 ˙	(
+
+%methRes_7*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+
+:checked*
+s76_8
+s76_9*à
+s76_8
+<synthetic> (Z
+X
+
+__unknown_file (
+%sc-FE_3688_win_10"__id* *
+
+%env"
+%scope-FE_3688_winU
+S
+
+__unknown_file (
+
+%expr_12"__id*%*#
+
+%sc-FE_3688_win_10"
+	rbuggyQSAF
+D
+
+__unknown_file (
+
+%expr_13"__id**
+
+
+%expr_12"
+push„"‡
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.js˚	 ˚	(
+
+%methRes_8*
+
+
+%expr_12"
+push2
+
+
+%expr_122
+
+%env2
+
+:checked*
+s76_9*∑
+s76_9
+<synthetic>	 	(Z
+X
+
+__unknown_file (
+%sc-FE_3688_win_11"__id* *
+
+%env"
+%scope-FE_3688_win÷
+”
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÅ
+ Å
+(,
+%fieldAccess_6"__id*#*!
+
+%sc-FE_3688_win_11"	
+expandoÕ
+ 
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÅ
+ Å
+(,
+
+%concat_14"__concat*
+a#*
+
+%fieldAccess_6…
+∆
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÅ
+ Å
+(3
+
+%concat_15"__concat*
+
+
+%concat_14*
++*L
+J
+
+__unknown_file (
+
+%expr_14"__id**
+
+el"
+querySelectorAllÂ"‚
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÅ
+ Å
+(
+
+%methRes_9*
+
+el"
+querySelectorAll2
+
+el2
+
+%env2
+
+
+%concat_15*
+s76_10
+s76_11*ã
+s76_10
+<synthetic>
+ 
+(Z
+X
+
+__unknown_file (
+%sc-FE_3688_win_12"__id* *
+
+%env"
+%scope-FE_3688_winU
+S
+
+__unknown_file (
+
+%expr_15"__id*%*#
+
+%sc-FE_3688_win_12"
+	rbuggyQSAF
+D
+
+__unknown_file (
+
+%expr_16"__id**
+
+
+%expr_15"
+push‰"·
+ì
+Ü/home/denis-py/Desktop/WHITESOURCE/js-projects/secDevLabs/owasp-top10-2017-apps/a2/saidajaula-monster/app/static/jquery/jquery.slim.jsÇ
+ Ç
+(
+%methRes_10*
+
+
+%expr_15"
+push2
+
+
+%expr_152
+
+%env2
+
+.#.+[+~]*
+s76_11*?
+s76_11
+<synthetic> ("
+
+__unknown_file ( :
+%env:
+elB 

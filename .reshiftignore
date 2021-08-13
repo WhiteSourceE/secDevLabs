@@ -4,3 +4,14 @@ venv/
 *.env
 *.vscode
 .scannerwork
+node_modules
+tests
+test_files
+dist
+package-lock.json
+*.sheetjs
+*.exe
+*.img
+*.java
+*.py
+deployments
