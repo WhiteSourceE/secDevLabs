@@ -4,7 +4,7 @@ venv/
 *.env
 *.vscode
 .scannerwork
-node_modules
+node_modules/
 tests
 test_files
 dist
@@ -14,4 +14,8 @@ package-lock.json
 *.img
 *.java
 *.py
-deployments
+**/deployments
+images/
+images
+**.py
+*.py
