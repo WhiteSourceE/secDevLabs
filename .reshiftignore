@@ -5,6 +5,7 @@ venv/
 *.vscode
 .scannerwork
 node_modules/
+node_modules
 tests/
 test_files/
 dist/
@@ -17,11 +18,17 @@ package-lock.json
 *.cc
 *.go
 *.db
+*.sql
+*.sh
+*.mod
+*.sum
+*.png
+Dockerfile
+*.yml
+*.Dockerfile
 **/deployments
 images/
 images
-**.py
-*.py
 owasp-top10-2016-mobile/
 .github
 deployments
