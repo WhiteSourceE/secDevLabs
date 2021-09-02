@@ -1,7 +1,7 @@
 organization=aharon02
 projectKey=secDevLabs
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.22173
+serverVersion=8.0.0.22937
 dashboardUrl=https://sonarcloud.io/dashboard?id=secDevLabs
-ceTaskId=AXr5LiYzxBgUIfqKoE0p
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXr5LiYzxBgUIfqKoE0p
+ceTaskId=AXul2ck1WvyTUuVuYT9x
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXul2ck1WvyTUuVuYT9x
